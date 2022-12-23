@@ -1,0 +1,12 @@
+@use "./variables" as *;
+
+.title-section {
+    text-transform: uppercase;
+    font-family: 'Lora', serif;
+    text-align: center;
+    padding: 3rem 0 2rem;
+
+    span {
+        color: $color-gold;
+    }
+}
