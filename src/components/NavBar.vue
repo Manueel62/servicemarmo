@@ -28,6 +28,10 @@ export default {
 
 <style scoped lang="scss">
 @use "../styles/partials/variables" as *;
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.7);
+}
 .container {
     border-bottom: 1px solid $color-gold;
 

@@ -4,11 +4,10 @@
             <h2 class="title-section"><span>Contattaci</span></h2>
 
             <div class="row justify-content-center">
-                <!-- <div class="col-3"></div> -->
                 <div class="col-6 col-lg-4 col-xl-3">
                     <div>
                         <i class="fa-brands fa-whatsapp pe-2"></i>
-                        Cellulare: 
+                        Cellulare:
                         <span class="information"> 338 658 1610</span>
                     </div>
                     <div>
@@ -32,18 +31,46 @@
                     <div>Partita IVA: 01046250146</div>
                     <div>Codice Fiscale: CTRNCL66H16Z133U</div>
                 </div>
-                <!-- <div class="col-3"></div> -->
             </div>
 
-            <!-- <div>icon design by <a href="//www.flaticon.com/free-icons/floor" >Floor icons created by Smashicons - Flaticon</a></div> -->
-            
+            <div class="py-5 text-center">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb justify-content-center">
+                        <li class="breadcrumb-item"><a href="#home">Home</a></li>
+                        <li class="breadcrumb-item"><a href="#about">About</a></li>
+                        <li class="breadcrumb-item"><a href="#servizi">Servizi</a></li>
+                        <li class="breadcrumb-item"><a href="#progetti">Progetti</a></li>
+                    </ol>
+                </nav>
+            </div>
+
+        </div>
+
+        <div class="attribute text-center">
+            <a href="https://www.flaticon.com/free-icons/floor" target="_blank"
+                title="floor icons">Floor icons created by Freepik - Flaticon / </a>
+
+            <a href="https://www.flaticon.com/free-icons/texture" target="_blank"
+                title="texture icons">Texture icons created by Smashicons - Flaticon / </a>
+
+            <a href="https://www.flaticon.com/free-icons/cleaning" target="_blank"
+                title="cleaning icons">Cleaning icons created by Freepik - Flaticon / </a><br>
+
+            <a href="https://www.flaticon.com/free-icons/floor-mop" target="_blank"
+                title="floor mop icons">Floor mop icons created by Freepik - Flaticon / </a>
+
+            <a href="https://www.flaticon.com/free-icons/stairs" target="_blank"
+                title="stairs icons">Stairs icons created by Freepik - Flaticon / </a>
+
+            <a href="https://www.flaticon.com/free-icons/bathroom" target="_blank"
+                title="bathroom icons">Bathroom icons created by piksart - Flaticon / </a>
         </div>
     </footer>
 </template>
 
 <script>
 export default {
-    
+
 }
 </script>
 
@@ -51,18 +78,32 @@ export default {
 @use "../styles/partials/variables" as *;
 @use "../styles/partials/utilities" as *;
 
-footer{
-    padding-bottom: 3rem;
+footer {
+    padding-bottom: 1rem;
     background-color: #393730;
     color: #fff;
 
-    .information{
+    .information {
         font-weight: 600;
     }
 
-    .right-part{
+    .right-part {
         text-align: end;
     }
-}
 
+    .breadcrumb-item a{
+        color: $color-gold;
+        text-transform: uppercase;
+    }
+
+    .attribute {
+        font-size: .8rem;
+        padding: 0 0 1rem 1rem;
+
+        a {
+            text-decoration: none;
+            color: $color-grey;
+        }
+    }
+}
 </style>

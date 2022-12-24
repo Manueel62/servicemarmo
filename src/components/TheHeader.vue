@@ -1,5 +1,5 @@
 <template>
-    <header class="d-flex">
+    <header class="d-flex" id="home">
         <NavBar></NavBar>
 
         <div class="jumbotron flex-grow-1">

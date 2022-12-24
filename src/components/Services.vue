@@ -11,8 +11,7 @@
                             <img src="/imgs/icon/pavimenti.png" alt="" class="img-fluid">
                         </div>
                         <h4>Pavimenti</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, repudiandae consequuntur
-                            itaque quis culpa.
+                        <p>Lucidatura e levigatura al fine di rimuovere macchie, graffi e ulteriori         danneggiamenti. Anche le fughe vengono pulite e riparate.
                         </p>
                     </div>
                 </div>
@@ -32,9 +31,8 @@
                         <div class="icon">
                             <img src="/imgs/icon/top-bagno-cucina.png" alt="" class="img-fluid">
                         </div>
-                        <h4>Top bagni/cucine</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, repudiandae consequuntur
-                            itaque quis culpa.
+                        <h4>Top bagni e cucine</h4>
+                        <p>Non solo pavimenti: lucidatura e levigatura di piani cucina, lavandini, piani doccia. L'obiettivo é il recupero dell'originale.
                         </p>
                     </div>
                 </div>
@@ -44,8 +42,7 @@
                             <img src="/imgs/icon/scale.png" alt="" class="img-fluid">
                         </div>
                         <h4>Rilucidatura scale</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, repudiandae consequuntur
-                            itaque quis culpa.
+                        <p>Lucidatura e levigatura di gradini, con stuccature delle fuga e riparazione di eventuali danni. <br> Risultato: brillantezza.
                         </p>
                     </div>
                 </div>
@@ -55,8 +52,7 @@
                             <img src="/imgs/icon/pav-anticati.png" alt="" class="img-fluid">
                         </div>
                         <h4>Pavimenti anticati</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, repudiandae consequuntur
-                            itaque quis culpa.
+                        <p>Pulizia e lucidatura/levigatura di pavimenti anticati al fine di ripristinarne le condizioni ottimali. L'obiettivo é di portare il pavimento allo splendore precedente.
                         </p>
                     </div>
                 </div>
@@ -66,8 +62,7 @@
                             <img src="/imgs/icon/pulizia.png" alt="" class="img-fluid">
                         </div>
                         <h4>Trattamenti e pulizie straordinarie</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, repudiandae consequuntur
-                            itaque quis culpa.
+                        <p>Trattamenti idrorepellenti e oleorepellenti protettivi per garantire una migliore conservazione del pavimento, prevenendo l'insorgenza di macchie.
                         </p>
                     </div>
                 </div>
@@ -87,7 +82,7 @@
     background-color: $color-white;
     padding: 2rem;
 
-    .icon{
+    .icon {
         width: 2rem;
         margin-bottom: 1rem;
     }
