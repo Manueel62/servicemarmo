@@ -5,7 +5,7 @@
                 <div class="card mb-3" style="max-width: 700px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="/imgs/marmo-carrara.JPG" class="img-fluid rounded-start" alt="...">
+                            <img src="/imgs/marmo-carrara.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -21,7 +21,7 @@
                 <div class="card mb-3" style="max-width: 700px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="/imgs/macchia.JPG" class="img-fluid rounded-start" alt="...">
+                            <img src="/imgs/macchia.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -37,7 +37,7 @@
                 <div class="card mb-3" style="max-width: 700px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="/imgs/seminato-granito.JPG" class="img-fluid rounded-start" alt="...">
+                            <img src="/imgs/seminato-granito.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -53,7 +53,7 @@
                 <div class="card mb-3" style="max-width: 700px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="/imgs/semilucidatura.JPG" class="img-fluid rounded-start" alt="...">
+                            <img src="/imgs/semilucidatura.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Manueel62.github.io/service-marmo/",
+  "homepage": "https://Manueel62.github.io/servicemarmo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

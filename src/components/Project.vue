@@ -5,42 +5,42 @@
 
       <div class="project-grid">
         <figure class="image-1">
-          <img src="/imgs/pav1.JPG"
+          <img src="/imgs/pav1.jpg"
               class="figure" alt="">
           <div class="overlay">
             <div class="overlay-text">Lucidatura palladiana di marmo</div>
           </div>
         </figure>
         <figure class="image-2">
-          <img src="/imgs/pav-cubo.JPG"
+          <img src="/imgs/pav-cubo.jpg"
               class="figure" alt="">
           <div class="overlay">
             <div class="overlay-text">Levigatura semilucida pavimento 3D in marmo</div>
           </div>
         </figure>
         <figure class="image-3">
-          <img src="/imgs/pav-stella.JPG" class="figure"
+          <img src="/imgs/pav-stella.jpg" class="figure"
               alt="">
           <div class="overlay">
             <div class="overlay-text">Lucidatura pavimento in marmo bianco</div>
           </div>
         </figure>
         <figure class="image-4">
-          <img src="/imgs/piano-cucina.JPG"
+          <img src="/imgs/piano-cucina.jpg"
               class="figure" alt="">
           <div class="overlay">
             <div class="overlay-text">Lucidatura piano cucina in marmo</div>
           </div>
         </figure>
         <figure class="image-5">
-          <img src="/imgs/pav-3.JPG"
+          <img src="/imgs/pav-3.jpg"
               class="figure" alt="">
           <div class="overlay">
             <div class="overlay-text">Lucidatura pavimento in palladiana di marmo</div>
           </div>
         </figure>
         <figure class="image-6">
-          <img src="/imgs/pav-2.JPG" class="figure" alt="">
+          <img src="/imgs/pav-2.jpg" class="figure" alt="">
           <div class="overlay">
             <div class="overlay-text">Lucidatura pavimento in marmo</div>
           </div>
